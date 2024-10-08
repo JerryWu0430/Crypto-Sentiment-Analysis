@@ -41,7 +41,7 @@ Links to documentation are provided below:
 
 - **Project (IA) Schedules:** [Gantt Chart](Documentation/Project%20Evidence%20-%20Video_Audio_Image/Gantt_Chart.pdf)
 
-- **Machine Learning Model: Three trained ML models are using three different datasets from Kaggle. However, due to the inaccuracy, a pre-trained sentiment analysis model is utilized to analyse tweets to ensure a better result. 
+- **Machine Learning Model**: Three trained ML models are using three different datasets from Kaggle. However, due to the inaccuracy, a pre-trained sentiment analysis model is utilized to analyse tweets to ensure a better result. 
 
 ---
 
