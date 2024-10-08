@@ -1,4 +1,4 @@
-# Crypto-Sentiment-Analysis
+# Twitter Cryptocurrency Sentiment Analysis
 
 ### README - Twitter Sentiment Analysis on Cryptocurrencies
 
