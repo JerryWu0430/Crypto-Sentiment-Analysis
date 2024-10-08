@@ -1,0 +1,9 @@
+Matplotlib == 3.4.3
+Tweepy
+Datetime
+Pandas
+Numpy
+PySimpleGUI
+Textblob
+Regex
+Re
