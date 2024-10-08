@@ -1,6 +1,6 @@
-# Twitter Cryptocurrency Sentiment Analysis
+# README - Twitter Sentiment Analysis on Cryptocurrencies
 
-### README - Twitter Sentiment Analysis on Cryptocurrencies
+### by Jerry Wu
 
 ---
 
